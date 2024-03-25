@@ -19,7 +19,7 @@ export default {
     },
     data() {
         return {
-            excel: 'http://static.shanhuxueyuan.com/demo/excel.xlsx'//设置文档地址
+            excel: 'https://github.com/chenxudong2020/2024/raw/main/%E6%AD%A6%E6%B1%89%E5%85%AC%E5%8F%B82024%E5%90%8D%E5%8D%95.xlsx'//设置文档地址
         }
     },
     methods: {
